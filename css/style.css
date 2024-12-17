@@ -1,0 +1,34 @@
+
+
+
+.active{
+ 
+   border-radius: 8px;
+  box-shadow: 0 4px 8px 0 #6FE655, 0 6px 25px 0#6FE655;  
+  
+}
+.active{
+  color:#6FE655;
+}
+ 
+ .btn-outline-success{
+  border-color: #6FE655;
+ }
+ .btn-outline-success:hover{
+  background-color: #6FE655;
+ }
+ .fs-10{
+  font-size: 66px;
+ }
+ .w-30{
+  width: 400px;
+ }
+ .ms-220{
+  margin-left:220px;
+ }
+ .ms-190{
+  margin-left:190px;
+ }
+
+ 
+ 

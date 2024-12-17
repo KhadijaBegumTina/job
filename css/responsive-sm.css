@@ -1,0 +1,130 @@
+
+
+
+@media only screen and (min-width: 400px) and (max-width: 460px)  {
+	.responsive-nav{
+        padding-left: 10px;
+        
+    }
+    .h1-text-responsive{
+        font-size: 40px ;
+    }
+    .w-lg-60{
+        width: 80% !important;
+    }
+    .responsive-w-md-sm{
+        width: 90% !important;
+        }
+        .w-submit-responsive{
+            width: 80% !important;
+        }
+        .submit-10x-responsive{
+            font-size: 45px!important;
+        }
+        .responsive-submit-p{
+            width:85% !important;
+        }
+        .free-ai-responsive{
+            width: 90% !important;
+            margin: auto !important;
+            text-align: center !important;
+           
+        }
+        .free-p-responsive{
+            width: 81% !important;
+            margin: auto !important;
+            text-align: center !important;
+        }
+        .btn-mx-auto{
+            margin-left: 110px !important;
+        }
+        .free-template-response{
+            width: 85% !important;
+            text-align: center !important;
+            margin: auto !important;
+        }
+        .btn--auto{
+            margin-left: 90px !important;
+        }
+        .fs-footer-title{
+            font-size: 35px;
+           }
+           .footer-btn{
+            margin-left: 150px;
+           }
+           .footer-mddl{
+            margin-left:px !important;
+            text-align: center;
+            
+           }
+          .nav-link{
+            padding-left: 20px !important;
+          }
+    
+    
+}
+
+@media only screen and (min-width: 365px) and (max-width: 379px)  {
+   .ms-220{
+    margin-left: 190px !important;
+   }
+   section{
+    width: 400px !important;
+   }
+    .h1-text-responsive{
+        font-size: 35px ;
+    }
+    .w-lg-60{
+        width: 80% !important;
+    }
+    .responsive-w-md-sm{
+        width: 90% !important;
+        }
+        .w-submit-responsive{
+            width: 80% !important;
+        }
+        .submit-10x-responsive{
+            font-size: 45px!important;
+        }
+        .responsive-submit-p{
+            width:85% !important;
+        }
+        .free-ai-responsive{
+            width: 90% !important;
+            margin: auto !important;
+            text-align: center !important;
+           
+        }
+        .free-p-responsive{
+            width: 81% !important;
+            margin: auto !important;
+            text-align: center !important;
+        }
+        .btn-mx-auto{
+            margin-left: 110px !important;
+        }
+        .free-template-response{
+            width: 85% !important;
+            text-align: center !important;
+            margin: auto !important;
+        }
+        .btn--auto{
+            margin-left: 90px !important;
+        }
+        .fs-footer-title{
+            font-size: 35px;
+           }
+           .footer-btn{
+            margin-left: 150px;
+           }
+           .footer-mddl{
+            margin-left:px !important;
+            text-align: center;
+            
+           }
+          .nav-link{
+            padding-left: 20px !important;
+          }
+    
+    
+}
